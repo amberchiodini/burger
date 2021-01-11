@@ -10,7 +10,7 @@
 * References 
 
 ## Description:
-I created a burger logger app with MySQL, Node, Express, Handlebars, and ORM that allows the user to input the names of burgers that they want to eat, to view their history of logs, and to store every burger into database whether it has been eaten or not.
+I created a burger logger app with MySQL, Node, Express, Handlebars, and ORM that allows the user to input the names of burgers that they want to eat, to view their history of logs, and to store every burger into the database whether it has been eaten or not.
 
 ## First Look: 
 ![burger_app](https://user-images.githubusercontent.com/69092983/104144119-a2166880-5387-11eb-9f11-9761cd6b5159.gif)
