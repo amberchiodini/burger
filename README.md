@@ -18,7 +18,7 @@ I created a burger logger app with MySQL, Node, Express, Handlebars, and ORM tha
 ## Technologies Used:
 * [NodeJS](https://nodejs.org/en/)
 * [Express](https://expressjs.com/)
-* [mySQL](https://www.mysql.com/)
+* [MySQL](https://www.mysql.com/)
 * [Handlebars](https://handlebarsjs.com/)
 
 ## Installation:
