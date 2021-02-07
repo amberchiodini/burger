@@ -60,6 +60,9 @@ You will first need to set-up your app by making a package.json file but running
         └── main.handlebars
 ```
 
+## Link to Deployed App: 
+* [Burger App](https://polar-plains-27882.herokuapp.com/)
+
 ## License: 
 MIT License
 
